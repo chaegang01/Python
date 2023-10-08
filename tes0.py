@@ -32,3 +32,4 @@ def DFS() :
 result = DFS()
 if result : print(' --> 미로탐색 성공') 
 else : print(' --> 미로탐색 실패')
+#임채강 바보
